@@ -1,0 +1,7 @@
+name: FifthDimension
+main: five.main.FifthDimension
+version: 5d v2
+description: Hub plugin for the FifthDimension.
+commands:
+  5d:
+    description: Main command for the FifthDimension.
